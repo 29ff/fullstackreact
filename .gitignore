@@ -67,5 +67,5 @@ public/app.js
 public/main.css
 
 # Build folder
-build
+builds
 .next
