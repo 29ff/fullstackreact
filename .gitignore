@@ -69,3 +69,4 @@ public/main.css
 # Build folder
 builds
 .next
+yarn.lock
